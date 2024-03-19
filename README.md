@@ -1,4 +1,5 @@
- product-star-java 	 																											Updated 1
+Updated after conflict
+
 
 UPDATE 2
 My second check and second commit.
