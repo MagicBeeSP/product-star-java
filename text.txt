@@ -4,3 +4,6 @@ Some text number two
  
 
 Some text 3 who we add in PUll REQUEST
+
+
+ I am working in IDE! And I do commit!  
